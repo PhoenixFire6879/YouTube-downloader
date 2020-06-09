@@ -25,7 +25,7 @@ or run the compiled version from /build folder
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/PhoenixFire6879/YouTube-downloader/issues). You can also take a look at the [contributing guide](https://github.com/PhoenixFire6879/YouTube-downloader/blob/master/CONTRIBUTING.md).
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/PhoenixFire6879/YouTube-downloader/issues).
 
 ## Show your support
 
