@@ -23,7 +23,7 @@ or run the compiled version from /build folder
 
 * Github: [@PhoenixFire6879](https://github.com/PhoenixFire6879)
 * Discord: Phoenix™#6879
-* Twitter: [@PhoenixBSArt] (https://twitter.com/PhoenixBSArt)
+* Twitter: @PhoenixBSArt (https://twitter.com/PhoenixBSArt)
 
 ## 🤝 Contributing
 
